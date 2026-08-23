@@ -1,6 +1,6 @@
 # SlideForge
 
-A presentation maker that runs entirely in your browser. One HTML file, no backend, no accounts, no tracking.
+A presentation maker that runs entirely in your browser. One HTML file, no backend, no accounts, soo simple it is.
 
 Live: https://slideforge-dcs.pages.dev/
 
