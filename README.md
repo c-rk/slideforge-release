@@ -30,5 +30,3 @@ Open `index.html` in any modern browser, or serve the folder from any static hos
 | `index.html` | The whole app |
 | `tex-svg-full.js` | Self hosted MathJax, so math needs no CDN |
 | `_headers` | Security headers for Cloudflare Pages |
-
-To deploy on Cloudflare Pages: create a Pages project, point it at this repo, leave the build command empty and set the output directory to `/`.
